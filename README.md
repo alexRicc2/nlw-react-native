@@ -1,3 +1,5 @@
+<img src="./imagens/Capture.jpeg" height="500px">
+
 <h1 align="center">Front-end APP da Aplicação em Nodejs / By Alex, Rocketseat</h1>
 
 <p align="center">
