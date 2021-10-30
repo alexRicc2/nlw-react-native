@@ -1,9 +1,12 @@
-<h1 align="center">Front-end APP da Aplicação em Nodejs / By Alex, Rocketseat</h1>
 
+
+<h1 align="center">Front-end APP da Aplicação em Nodejs / By Alex, Rocketseat</h1>
+<img src="./imagens/Capture.jpeg" height="500px">
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-executar">Como executar</a>
 </p>
+
 
 ## ✨ Tecnologias
 
